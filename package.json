@@ -1,0 +1,28 @@
+{
+  "name": "three-mesh-controller",
+  "version": "1.0.0",
+  "description": "three.js控制mesh平移旋转缩放组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouqing30261114/three-mesh-controller.git"
+  },
+  "author": "zhouqing30261114@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouqing30261114/three-mesh-controller/issues"
+  },
+  "homepage": "https://github.com/zhouqing30261114/three-mesh-controller#readme",
+  "dependencies": {
+    "three": "^0.98.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "rollup-plugin-babel": "^4.0.3"
+  }
+}
