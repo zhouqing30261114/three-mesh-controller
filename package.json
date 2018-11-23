@@ -2,7 +2,7 @@
   "name": "three-mesh-controller",
   "version": "1.0.0",
   "description": "three.js控制mesh平移旋转缩放组件",
-  "main": "index.js",
+  "main": "dist/three-mesh-controller.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup --config"
